@@ -7,3 +7,5 @@ This project displays a random quote and its author whenver the user clicks the 
 - Working with APIs;
 - Working with npm packages;
 - Node.js;
+
+### Run 'npm start' on main directory to run
